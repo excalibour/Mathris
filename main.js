@@ -39,7 +39,7 @@ $(document).ready(function(){
 	var sideBarColor = "#A89F96";
 	//////////////////
 	var dx = 0;
-	var soundEffect = [new Audio("puff.mp3")];
+	var soundEffect = [new Audio("Resource/puff.mp3")];
 	var sound = true;
 	var pause = false;
 	var pauseInterval;
